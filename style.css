@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
 
+/* *선택자는 모든 태그에 적용, 마진, 패딩 =0, 박스 사이징 보더 박스는 초기화 */
 * {
   margin: 0;
   padding: 0;
